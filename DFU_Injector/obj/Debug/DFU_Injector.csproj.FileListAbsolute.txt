@@ -1,0 +1,7 @@
+C:\Users\shane\Documents\DFU_Injector\DFU_Injector\bin\Debug\DFU_Injector.dll
+C:\Users\shane\Documents\DFU_Injector\DFU_Injector\bin\Debug\DFU_Injector.pdb
+C:\Users\shane\Documents\DFU_Injector\DFU_Injector\obj\Debug\DFU_Injector.csprojAssemblyReference.cache
+C:\Users\shane\Documents\DFU_Injector\DFU_Injector\obj\Debug\DFU_Injector.csproj.CoreCompileInputs.cache
+C:\Users\shane\Documents\DFU_Injector\DFU_Injector\obj\Debug\DFU_Injector.dll
+C:\Users\shane\Documents\DFU_Injector\DFU_Injector\obj\Debug\DFU_Injector.pdb
+C:\Users\shane\Documents\DFU_Injector\DFU_Injector\bin\Debug\DFU_Injector.dll.config
