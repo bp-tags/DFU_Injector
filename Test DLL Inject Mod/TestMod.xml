@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<DFUMod>
+      <ModName>TestMod</ModName>
+	  <ModAuthor>ShortBeard</ModAuthor>
+	  <ModVersion>1.0.0</ModVersion>
+	  <ModFiles>
+		<FileName>DFU_DLL_Test_1.dll</FileName>
+	  </ModFiles>
+	  <ModSettings>
+	  </ModSettings>
+</DFUMod>

@@ -1,0 +1,13 @@
+The following exception(s) occured when attempting to load: C:\Users\KirkO\Desktop\Recent Daggerfall Unity Build 10.26 Alpha\DaggerfallUnity_Data\StreamingAssets\Mods\injector_mods\TestMod\TestMod.xml
+
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Null method for com.shortbeard.harmonymodding.harmonytest
+  at HarmonyLib.PatchProcessor.Patch () [0x0001d] in <6ad64e60db9e43e5a66782c0bcf0cc7d>:0 
+  at HarmonyLib.Harmony.Patch (System.Reflection.MethodBase original, HarmonyLib.HarmonyMethod prefix, HarmonyLib.HarmonyMethod postfix, HarmonyLib.HarmonyMethod transpiler, HarmonyLib.HarmonyMethod finalizer) [0x00028] in <6ad64e60db9e43e5a66782c0bcf0cc7d>:0 
+  at DFU_Harmony.DFU_Patch.DFUReplace_Start () [0x00040] in <a1b3266cb46045c09ebb1e05db1369e0>:0 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <fb001e01371b4adca20013e0ac763896>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <fb001e01371b4adca20013e0ac763896>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <fb001e01371b4adca20013e0ac763896>:0 
+  at DFU_Injector.Program.ExecuteDLL (System.Reflection.Assembly modDLL) [0x0001e] in <9866bebb4eb04194909585752dcaa1db>:0 
+  at DFU_Injector.Program.ReadModInformation (System.String modDirectory) [0x00099] in <9866bebb4eb04194909585752dcaa1db>:0 
